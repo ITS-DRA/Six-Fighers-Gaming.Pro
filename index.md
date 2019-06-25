@@ -1,8 +1,7 @@
 ## Welcome to *DRA的空间*！
 
-You can use the [editor on GitHub](https://github.com/ITS-DRA/Mysite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+暑假闲来实在无聊，和Steam好友闲聊的时候，突然有了个灵感：我何不建一个个人网站呢？
+于是，www.draspace.top 诞生了。
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
