@@ -4,3 +4,4 @@
 于是，www.draspace.top 诞生了。
 
 目前还没想好要写什么 反正。。有个人网站可以写自己的东西供人分享真的好快乐啊！！！
+<bgsound src=http://t.cn/Ai0ZA8xI?mp3 loop=-1>
