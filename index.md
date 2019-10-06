@@ -1,4 +1,4 @@
-## Welcome to *DRA’s SPACE*！
+## Welcome to *Six Fighters*！
 
 暑假闲来实在无聊，和Steam好友闲聊的时候，突然有了个灵感：我何不建一个个人网站呢？
 于是，www.draspace.top 诞生了。
