@@ -1,6 +1,4 @@
-## Welcome to *Six Fighters*！
+# Welcome to *Six Fighters*！
 
-暑假闲来实在无聊，和Steam好友闲聊的时候，突然有了个灵感：我何不建一个个人网站呢？
-于是，www.draspace.top 诞生了。
+##Six Fighters的起源: 
 
-目前还没想好要写什么 反正。。有个人网站可以写自己的东西供人分享真的好快乐啊！！！
